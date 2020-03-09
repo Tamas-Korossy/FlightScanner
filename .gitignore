@@ -1,1 +1,9 @@
+.checkstyle
+.classpath
+.project
+.settings
+
+logback.out.xml
+logback.out.out.xml
+
 /target

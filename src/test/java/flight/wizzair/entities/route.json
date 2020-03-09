@@ -1,0 +1,15 @@
+{
+	"departureStation": "BUD",
+	"arrivalStation": "MLA",
+	"departureDate": "2020-02-01T00:00:00",
+	"price": {
+		"amount": 7990.0,
+		"currencyCode": "HUF"
+	},
+	"priceType": "price",
+	"departureDates": [
+		"2020-02-01T12:45:00"
+	],
+	"classOfService": "R",
+	"hasMacFlight": false
+}

@@ -1,0 +1,20 @@
+{
+	"flightList": [
+		{
+			"departureStation": "BUD",
+			"arrivalStation": "MLA",
+			"from": "2020-02-01",
+			"to": "2020-03-01"
+		},
+		{
+			"departureStation": "MLA",
+			"arrivalStation": "BUD",
+			"from": "2020-02-01",
+			"to": "2020-03-01"
+		}
+	],
+	"priceType": "regular",
+	"adultCount": 1,
+	"childCount": 0,
+	"infantCount": 0
+}

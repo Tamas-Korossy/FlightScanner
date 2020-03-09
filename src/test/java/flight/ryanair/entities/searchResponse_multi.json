@@ -1,0 +1,2553 @@
+{
+	"termsOfUse": "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+	"currency": "HUF",
+	"currPrecision": 0,
+	"routeGroup": "CITY",
+	"tripType": "BUSINESS",
+	"upgradeType": "FLEXI_PLUS",
+	"trips": [
+		{
+			"origin": "BUD",
+			"originName": "Budapest T2B",
+			"destination": "STN",
+			"destinationName": "London (Stansted)",
+			"routeGroup": "CITY",
+			"tripType": "BUSINESS",
+			"upgradeType": "FLEXI_PLUS",
+			"dates": [
+				{
+					"dateOut": "2020-03-11T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8354~ ~~BUD~03/11/2020 06:25~STN~03/11/2020 08:05~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWCQTTGEQ227BSTFO3627QYNVG4Q3ZTTAPK54NE6O5I5P3LNUKQU3QWERPDJB55JC7SQLTHJVMWZXG7D5JFO4BNALZOH5TQBJHMFO52XKSQWDE25DBQO4ELDMMEM34G7FEUM77Y5NELJOP5IZRWCSMJAK4A4",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 7636.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 3056.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-11T06:25:00.000",
+										"2020-03-11T08:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-11T05:25:00.000Z",
+										"2020-03-11T08:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-11T06:25:00.000",
+								"2020-03-11T08:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-11T05:25:00.000Z",
+								"2020-03-11T08:05:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 5,
+							"flightKey": "FR~8446~ ~~BUD~03/11/2020 15:35~STN~03/11/2020 17:15~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWAJE24YNHVLW2KMAGT5U7FNKWXBLPJDOXN67KUUXQQLMFEN7E52VBDUD54JNAJSFN7ZUDI6WV52GHP67LGTR5SSZRPL7RV4LQYCRXX7W6EHQBWK3U3WABXSPFLNJWT3K5ICI4HSFB6UC6FTVH6PTSZUBVYO",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 8993.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 4413.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-11T15:35:00.000",
+										"2020-03-11T17:15:00.000"
+									],
+									"timeUTC": [
+										"2020-03-11T14:35:00.000Z",
+										"2020-03-11T17:15:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-11T15:35:00.000",
+								"2020-03-11T17:15:00.000"
+							],
+							"timeUTC": [
+								"2020-03-11T14:35:00.000Z",
+								"2020-03-11T17:15:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~1671~ ~~BUD~03/11/2020 19:30~STN~03/11/2020 21:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWCHGCU6KSU2FTRWBCAP5D5UI6VQE3RTCDKGBCGILDGAUC7KYKVTDY2ZM7ANEWCUKDVNJG45DEYV4XLNJNXMIW7VYEBPL62MCMFZKCXOJUXP2GK5X5UOHY6XE6XCVLI6NKYMI5HTRCW5EKX5DXFUARLKGNN6",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 4580.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 1671",
+									"time": [
+										"2020-03-11T19:30:00.000",
+										"2020-03-11T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-11T18:30:00.000Z",
+										"2020-03-11T21:00:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 1671",
+							"time": [
+								"2020-03-11T19:30:00.000",
+								"2020-03-11T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-11T18:30:00.000Z",
+								"2020-03-11T21:00:00.000Z"
+							],
+							"duration": "02:30"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-12T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8354~ ~~BUD~03/12/2020 10:20~STN~03/12/2020 12:00~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "XZPIKJEXHDCDZUNO7HFCXL5DDFSYRYBIP3MU7HSQ7ARP4M5Z4PUBDIE6ZU5C65UXROKW6JWYLUTVVBER3OPJUVZEOLNGZJSF7Q63FJSHSQUPDEN6JON7QV4QZEZSYDI4C2WHPF3HLLIYJMGNKBNK6MUPZB2L3NNSYW76AB6CKLOB76HKGUSQXIQBUDMUM7R7LQCHEXIS35QYG",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11398.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 11398.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-12T10:20:00.000",
+										"2020-03-12T12:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T09:20:00.000Z",
+										"2020-03-12T12:00:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-12T10:20:00.000",
+								"2020-03-12T12:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T09:20:00.000Z",
+								"2020-03-12T12:00:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8446~ ~~BUD~03/12/2020 15:50~STN~03/12/2020 17:30~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "OWGM3B7DKQJX3CPXEPCY7VINQ4AB5KIDOFKIELJYEVAXVF6MVWW74A3GULMWRAYYQGRNKMMY67SSUTKFE7FCXRFSWARH6CHLO6GQK6D7O2L2BHJRYD2UX3JGWEQ25XG3N6VCALHNUG65BC5EEDZT7TJ6PAOKCPWSHD7CSMB63BBBBZWMC3MLU5HWCTPWGFKME4VH35HENUFBE",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-12T15:50:00.000",
+										"2020-03-12T17:30:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T14:50:00.000Z",
+										"2020-03-12T17:30:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-12T15:50:00.000",
+								"2020-03-12T17:30:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T14:50:00.000Z",
+								"2020-03-12T17:30:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~1671~ ~~BUD~03/12/2020 19:05~STN~03/12/2020 20:35~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "OWGM3B7DKQJX3CPXEPCY7VINQ4AB5KIDOFKIELJYEVAXVF6MVWW74A3GULMWRAYYQGRNKMMY67SSUD7F5VQM2IQBZEIJ5HOPHHNQWS767NFZBQTV7AJ2VRZ75GK2SGLNZPOPIUB2PVQ5YYY2OE7Q45LWERDQKYNDT4KMM35HBAVGQTMHXAOLAZKZXFU7HL62KJIVDX3U7LKIE",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 1671",
+									"time": [
+										"2020-03-12T19:05:00.000",
+										"2020-03-12T20:35:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T18:05:00.000Z",
+										"2020-03-12T20:35:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 1671",
+							"time": [
+								"2020-03-12T19:05:00.000",
+								"2020-03-12T20:35:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T18:05:00.000Z",
+								"2020-03-12T20:35:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8369~ ~~BUD~03/12/2020 21:25~STN~03/12/2020 23:05~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "OWGM3B7DKQJX3CPXEPCY7VINQ4AB5KIDOFKIELJYEVAXVF6MVWW74A3GULMWRAYYQGRNKMMY67SSV2VI6UX3ZKMEWBYEO4W7ZIAEMLV624OA7MP5KDCKOAWIXGSON4WIBZMUOXWXRHFM2JNW67ZXRXZII3JGZOMMTXJKY4FBY4RKYJ4DZGYIYZALTYMZZMKKJK3S4TZQVAWU6",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8369",
+									"time": [
+										"2020-03-12T21:25:00.000",
+										"2020-03-12T23:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T20:25:00.000Z",
+										"2020-03-12T23:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8369",
+							"time": [
+								"2020-03-12T21:25:00.000",
+								"2020-03-12T23:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T20:25:00.000Z",
+								"2020-03-12T23:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-13T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 3,
+							"flightKey": "FR~8354~ ~~BUD~03/13/2020 06:40~STN~03/13/2020 08:20~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBJ7BT7NKTFZACQVRJ5JXWLLWNV2NFXXIQ6FJMVMVHYGX3Q6K5U6L6W2X564OQKK4NJ7AD7XY3HFKBIXCVLR6FJGCZY5GQR5ZEX5K4WQA6SJXZV2AZ6E65DRL4AIDENYBKKSGRQAZGIWRBQ7QNF3L67B5BSA",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 3239.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 3239.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-13T06:40:00.000",
+										"2020-03-13T08:20:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T05:40:00.000Z",
+										"2020-03-13T08:20:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-13T06:40:00.000",
+								"2020-03-13T08:20:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T05:40:00.000Z",
+								"2020-03-13T08:20:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8446~ ~~BUD~03/13/2020 15:50~STN~03/13/2020 17:30~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "WF267ZXTWPZU24D6SUFI5CICOBPYPUCBMXZL23XQCRXYEDP7V73NMH34SQKJXAZ75LESRGHJFWUGL5D67SEUCTYUN7JLOGO5TYLHOSM3PCA3J2EIPLFUW4UMZFA427HHLVDFG7VWVHORQQQKKLK2CN3L4KHJUSNSFDFAXYFD4Y66HHFXPLTIUPTTNNVJAXFRXIEYAWEV352WY",
+								"fareClass": "C",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 20019.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 20019.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-13T15:50:00.000",
+										"2020-03-13T17:30:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T14:50:00.000Z",
+										"2020-03-13T17:30:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-13T15:50:00.000",
+								"2020-03-13T17:30:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T14:50:00.000Z",
+								"2020-03-13T17:30:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~1671~ ~~BUD~03/13/2020 18:05~STN~03/13/2020 19:35~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "AVIJ6NMSF446ZHXABZJ6AGOU7TWBXA46XXEPZB5JRP7GIPL2TTLU5CU7RPR7TUNNZ7MARTGEVMEDQRW4XDYA5WVD36SYAOT66HLAR4WAEMTELCQMMZ55RW2G75IA4T52Y2UFLGSQ3NGCIVL7RLYHHOA2MRAJIYNO6SLARV25UGY4GYOQ7RBOAQNC35TGTQZ4YEGRQMQAYUWYW",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 8133.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 11773.0,
+										"discountInPercent": 25,
+										"hasPromoDiscount": false,
+										"discountAmount": 3640.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 1671",
+									"time": [
+										"2020-03-13T18:05:00.000",
+										"2020-03-13T19:35:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T17:05:00.000Z",
+										"2020-03-13T19:35:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 1671",
+							"time": [
+								"2020-03-13T18:05:00.000",
+								"2020-03-13T19:35:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T17:05:00.000Z",
+								"2020-03-13T19:35:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8369~ ~~BUD~03/13/2020 21:25~STN~03/13/2020 23:05~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "AVIJ6NMSF446ZHXABZJ6AGOU7TWBXA46XXEPZB5JRP7GIPL2TTL5ZYOZT6IKER5UNMSO6FBVJP7JDEX3HH3VMSVFZI2OPQ6RPNLXQQF34FLJCKOPL3ITLYV7H35Q6SAH5FDZEI7MXQ4AFX2AAUFU6E5FJ77I7VZBXBEIHTX4AIZVO74BABU7Y63JV6ATKSX73CY6Z2ZJKKBNW",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 8133.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 10057.0,
+										"discountInPercent": 25,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8369",
+									"time": [
+										"2020-03-13T21:25:00.000",
+										"2020-03-13T23:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T20:25:00.000Z",
+										"2020-03-13T23:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8369",
+							"time": [
+								"2020-03-13T21:25:00.000",
+								"2020-03-13T23:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T20:25:00.000Z",
+								"2020-03-13T23:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-14T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8354~ ~~BUD~03/14/2020 10:20~STN~03/14/2020 12:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "5DK4JGBZGI3LGJEY7PIPEHFS6BPDYFFS3T3MPXLRAQEIKB253SOIB3DCURFN4RFJGQN6HUDQOOCUW6BQ6LIBI4VQLPQPM4F2QOJXYY26BR7J5DHFR7NXAFOMGZU4Y5WOCBB7AUSW6KAVAXN3Q3BSY4VLVSRGM44GCKP2VUU4ZGPRBGLSXUIOGE52L2SUV6FW6MONFLVNQAFEU",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9829.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 11773.0,
+										"discountInPercent": 25,
+										"hasPromoDiscount": false,
+										"discountAmount": 1944.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-14T10:20:00.000",
+										"2020-03-14T12:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-14T09:20:00.000Z",
+										"2020-03-14T12:00:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-14T10:20:00.000",
+								"2020-03-14T12:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-14T09:20:00.000Z",
+								"2020-03-14T12:00:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8446~ ~~BUD~03/14/2020 16:00~STN~03/14/2020 17:40~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "5DK4JGBZGI3LGJEY7PIPEHFS6DIVODJSIGC4RFKVRBRO2LJA65FY4EVUMFVKMFYP7MCRZ6XPSPXFJJY3OZBYVV3D42DXWWHIF5ZJZXZ4SSWN63P7XM7VWFKBFR5U7RGN6J2AC7DA7WGZXHQEILCEL4BAIFLTL63R6Z2VUYBHRSQWQ7RO254UUM5G6VGDCV45P6YLADWZ7YI7I",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-14T16:00:00.000",
+										"2020-03-14T17:40:00.000"
+									],
+									"timeUTC": [
+										"2020-03-14T15:00:00.000Z",
+										"2020-03-14T17:40:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-14T16:00:00.000",
+								"2020-03-14T17:40:00.000"
+							],
+							"timeUTC": [
+								"2020-03-14T15:00:00.000Z",
+								"2020-03-14T17:40:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8369~ ~~BUD~03/14/2020 21:25~STN~03/14/2020 23:05~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "M4QWIFT5CMI6W554NIEL57IV6U3WSLL3IDNHLJDLBA45JFE2QEOMWQH6AJYFAXOR3TO7F7UPM6HZNO56ICBTPZLXP32SLLKHOEBOGR7UM2DNRDQLTXJFL7XKLDKJQHEWFZEEKWVIITYFNYSB6OLYZDAXFZI4BFWEQZOIUVETFLZ7QHCW5VMUTTMSJS46Q347UD7NSIFUHGGM6",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11398.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 11398.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8369",
+									"time": [
+										"2020-03-14T21:25:00.000",
+										"2020-03-14T23:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-14T20:25:00.000Z",
+										"2020-03-14T23:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8369",
+							"time": [
+								"2020-03-14T21:25:00.000",
+								"2020-03-14T23:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-14T20:25:00.000Z",
+								"2020-03-14T23:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-15T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8354~ ~~BUD~03/15/2020 06:25~STN~03/15/2020 08:05~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "5DK4JGBZGI3LGJEY7PIPEHFS6DIVODJSIGC4RFKVRBRO2LJA65FY4EVUMFVKMFYP7MCRZ6XPSPXFJDB546SOEDDC3O6X3BQC5FXKEQSMQ7INHM62BBNXREZUDNG3EDFX7BXP7F4DBMA7XIGZFPDV6VWTDRH3BZTPMN2B5XHYIAXVW6WP3QX34E2XDDPINLG2WC4UQZGRJQPRC",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-15T06:25:00.000",
+										"2020-03-15T08:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T05:25:00.000Z",
+										"2020-03-15T08:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-15T06:25:00.000",
+								"2020-03-15T08:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T05:25:00.000Z",
+								"2020-03-15T08:05:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8446~ ~~BUD~03/15/2020 15:30~STN~03/15/2020 17:10~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "RGGO26C7QNQRFT3FGZKOCS4253KQV53RUAO4OMPPND7MNPJM5XYTQOPRPNOJA2ZUDJ3J5JZ37N6K5RMCBVB663BSPH22YW5HTIX36LNPQ7ML5ZB3YJW7JPJSYWGDVFO64IAZJCET6YDDZIKHP5VOKVBM4FA72M5YCFQYNSZBMEKKVK7NUYGQ5XAJ7NQIBCBFUTHHTHIAYOBQW",
+								"fareClass": "L",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 42150.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 42150.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-15T15:30:00.000",
+										"2020-03-15T17:10:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T14:30:00.000Z",
+										"2020-03-15T17:10:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-15T15:30:00.000",
+								"2020-03-15T17:10:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T14:30:00.000Z",
+								"2020-03-15T17:10:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~1671~ ~~BUD~03/15/2020 17:20~STN~03/15/2020 18:50~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "DYUNFNNDQF74FR7W6R5GQ27HALDAGJCVFTN2LJREV44XDD44BCPNMGUZHG3MRC2CUVUR5ICUPLLRRUNM3TRMPFYXGXYKX5P2QGSSWDXZO33WELTBDLNTICSIDKOQ3PNT32BVBIG5ZY3AAAQ2F356JFGDK7FONFGE4CRUZXPHWOJHOQ42DBC5VZU5O3J7VYUPHOURKHDQORC3S",
+								"fareClass": "F",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 51317.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 51317.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 1671",
+									"time": [
+										"2020-03-15T17:20:00.000",
+										"2020-03-15T18:50:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T16:20:00.000Z",
+										"2020-03-15T18:50:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 1671",
+							"time": [
+								"2020-03-15T17:20:00.000",
+								"2020-03-15T18:50:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T16:20:00.000Z",
+								"2020-03-15T18:50:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8369~ ~~BUD~03/15/2020 21:25~STN~03/15/2020 23:05~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "DYUNFNNDQF74FR7W6R5GQ27HALDAGJCVFTN2LJREV44XDD44BCPOU5VO5GQ6XEVV5PXVYJTPH5JFG54OFPLERT222DMBUTG5GVJY33BEDN4BRN3FMTUAA7ELV3332KAJD4SIY3GFKZ75Z3RI6JD4DHGTWZ2P7EFYUTCU46G4LXIM7TMVHDPN4ZR3FSCVUBN77HEESYCT2SWPC",
+								"fareClass": "F",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 51317.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 51317.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8369",
+									"time": [
+										"2020-03-15T21:25:00.000",
+										"2020-03-15T23:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T20:25:00.000Z",
+										"2020-03-15T23:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8369",
+							"time": [
+								"2020-03-15T21:25:00.000",
+								"2020-03-15T23:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T20:25:00.000Z",
+								"2020-03-15T23:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-16T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8354~ ~~BUD~03/16/2020 06:35~STN~03/16/2020 08:15~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "JNPYUNBTAD6HMYJRUG2OV6Z22SK2PWZHAMMJZA6FGJOBEC7OAWIBZF5BIUNBB65AM74TWCLCYDHPFJBBOJV6SGSLSGBZVSIJ5ZHCUB5S6QFS2C5EE2QLPGZQTVKHFNZZ6MVAQSTUCFZ3ZKHQI7JR5UK2AS65DSQ32TQSNEWNTKAZWTNJOIZYZ353A3KLANTY3BNJQD2OVBVZC",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-16T06:35:00.000",
+										"2020-03-16T08:15:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T05:35:00.000Z",
+										"2020-03-16T08:15:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-16T06:35:00.000",
+								"2020-03-16T08:15:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T05:35:00.000Z",
+								"2020-03-16T08:15:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8446~ ~~BUD~03/16/2020 14:45~STN~03/16/2020 16:25~~",
+							"infantsLeft": 15,
+							"regularFare": {
+								"fareKey": "775MNLXJIVDBV7A3OHWMPFLZUZFFG6XTTJY5CJANNDANQAH6JLMOS7X7X6B2JM4THYG4IOJ3QZE6FZOBJOC4T6RCUQIO7A3HIH5TMC6KGCO2OMSDLG2FNCKAYADXMV6376XVNBJGNEI44D3LMBOP74LB5W2FD5F5H6EWBD35E7XVQVS5R3ZSWS4M5DTEGMXLT25ZNATUDNDN2",
+								"fareClass": "V",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 25189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 25189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-16T14:45:00.000",
+										"2020-03-16T16:25:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T13:45:00.000Z",
+										"2020-03-16T16:25:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-16T14:45:00.000",
+								"2020-03-16T16:25:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T13:45:00.000Z",
+								"2020-03-16T16:25:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~1671~ ~~BUD~03/16/2020 17:25~STN~03/16/2020 18:55~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "WF267ZXTWPZU24D6SUFI5CICOBPYPUCBMXZL23XQCRXYEDP7V73NMH34SQKJXAZ75LESRGHJFWUGLXZ2LQLWGY4LZDT4JX2W3TZRR2KXCV2BHSKHKLN7AZXPIBGTJBUZ3FL3YYZHNPCXGMHV2HH3ZBP7RJPFYJV3YBTUO5DGPVVMUIX5XBGNEIQSLCLWFHMXL6P6FVY47XPGU",
+								"fareClass": "C",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 20019.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 20019.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 1671",
+									"time": [
+										"2020-03-16T17:25:00.000",
+										"2020-03-16T18:55:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T16:25:00.000Z",
+										"2020-03-16T18:55:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 1671",
+							"time": [
+								"2020-03-16T17:25:00.000",
+								"2020-03-16T18:55:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T16:25:00.000Z",
+								"2020-03-16T18:55:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8369~ ~~BUD~03/16/2020 21:25~STN~03/16/2020 23:05~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "JNPYUNBTAD6HMYJRUG2OV6Z22SK2PWZHAMMJZA6FGJOBEC7OAWIBZF5BIUNBB65AM74TWCLCYDHPECLI6LXN37F6HSFDQZSN5EC73N5SI6UZNC2CDNWMZ35AGRUCD2LWMVMTMEA5LKVXFQMAYGYPLY3AFYJEI6X3SHDBM7TXQT2CZSVJLFZC6SDBJCQD4LTWLMDC4GFPWEL5M",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8369",
+									"time": [
+										"2020-03-16T21:25:00.000",
+										"2020-03-16T23:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T20:25:00.000Z",
+										"2020-03-16T23:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8369",
+							"time": [
+								"2020-03-16T21:25:00.000",
+								"2020-03-16T23:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T20:25:00.000Z",
+								"2020-03-16T23:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-17T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8354~ ~~BUD~03/17/2020 10:20~STN~03/17/2020 12:00~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWCQTTGEQ227BSTFO3627QYNVG4QXARAALS7U4GLZ2RRCOXYKPULUIZSJ633R4CFKHHALQRQENP7XAW44YNJTRZT2DAPQZSS2TYIAQY2OC3HIIODUG2VA64KX7PVVSC6ISABP6ANCAYIKMZM4KSPFWGFJGRI",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 7636.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 3056.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8354",
+									"time": [
+										"2020-03-17T10:20:00.000",
+										"2020-03-17T12:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-17T09:20:00.000Z",
+										"2020-03-17T12:00:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8354",
+							"time": [
+								"2020-03-17T10:20:00.000",
+								"2020-03-17T12:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-17T09:20:00.000Z",
+								"2020-03-17T12:00:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8446~ ~~BUD~03/17/2020 15:50~STN~03/17/2020 17:30~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "XZPIKJEXHDCDZUNO7HFCXL5DDFSYRYBIP3MU7HSQ7ARP4M5Z4PUBDIE6ZU5C65UXROKW6JWYLUTVUDAIZ7DZ6Q6MKR2OKZOERJQJJZP7GY5LSOKFJAELDZU4EPEWE6GMXTMYCPZPDQRVEUTTM7JLISEUNGROE5A2HVAFLR577AXDYOHGYBTQHD6U26VIR3DSOORRVK2YGS5B4",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11398.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 11398.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8446",
+									"time": [
+										"2020-03-17T15:50:00.000",
+										"2020-03-17T17:30:00.000"
+									],
+									"timeUTC": [
+										"2020-03-17T14:50:00.000Z",
+										"2020-03-17T17:30:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8446",
+							"time": [
+								"2020-03-17T15:50:00.000",
+								"2020-03-17T17:30:00.000"
+							],
+							"timeUTC": [
+								"2020-03-17T14:50:00.000Z",
+								"2020-03-17T17:30:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8369~ ~~BUD~03/17/2020 21:25~STN~03/17/2020 23:05~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWKS3OV6YAQ3UJEYE6SB7TTX5O24DZFS6CCDE3H7ZDND5OJSLO5COJNZTLBLFGGQCRMGSCUX63Y7B475PCFMDPKALZAYYZDMVCBU5IL54NCN5JOY3X4AMEKG6VROWFZR5E5Y2B5FU463IG3SHZIB4TQRSXYM",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 4580.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "STN",
+									"flightNumber": "FR 8369",
+									"time": [
+										"2020-03-17T21:25:00.000",
+										"2020-03-17T23:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-17T20:25:00.000Z",
+										"2020-03-17T23:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 8369",
+							"time": [
+								"2020-03-17T21:25:00.000",
+								"2020-03-17T23:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-17T20:25:00.000Z",
+								"2020-03-17T23:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				}
+			]
+		},
+		{
+			"origin": "STN",
+			"originName": "Budapest T2B",
+			"destination": "BUD",
+			"destinationName": "London (Stansted)",
+			"routeGroup": "CITY",
+			"tripType": "BUSINESS",
+			"upgradeType": "FLEXI_PLUS",
+			"dates": [
+				{
+					"dateOut": "2020-03-11T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8353~ ~~STN~03/11/2020 08:30~BUD~03/11/2020 12:00~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "OWGM3B7DKQJX3CPXEPCY7VINQ4AB5KIDOFKIELJYEVAXVF6MVWW74A3GULMWRAYYQGRNKMMY67SSVLVA2SYY6EMZL455UR7IKI2L5ZZBWEF4IOH6KVMAOQ7JH75CH4BHCZG4NPGHSTOTKYMA7J6GFQPNDT5UPLKMA732MAL27VVWX3VNLHLVLWQTNPTHK3LIUDFH4IW5NLVEW",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-11T08:30:00.000",
+										"2020-03-11T12:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-11T08:30:00.000Z",
+										"2020-03-11T11:00:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-11T08:30:00.000",
+								"2020-03-11T12:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-11T08:30:00.000Z",
+								"2020-03-11T11:00:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 5,
+							"flightKey": "FR~8445~ ~~STN~03/11/2020 11:45~BUD~03/11/2020 15:10~~",
+							"infantsLeft": 13,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWOYPLFK274LQMBC5M6SIPKQLFQQBTENMN3TXJMYHPSKVNI3BYSD35LGOUN4OM4XDF422KCMXJODAK6RGXOXJ6KYNT4EKKSD35T6ZMSWXWUXWVJR5HKZICDV4N5DSTNVAWTIRZRVPYLKOSQ6RK5HN4QRTMDS",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 4580.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-11T11:45:00.000",
+										"2020-03-11T15:10:00.000"
+									],
+									"timeUTC": [
+										"2020-03-11T11:45:00.000Z",
+										"2020-03-11T14:10:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-11T11:45:00.000",
+								"2020-03-11T15:10:00.000"
+							],
+							"timeUTC": [
+								"2020-03-11T11:45:00.000Z",
+								"2020-03-11T14:10:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~1670~ ~~STN~03/11/2020 15:25~BUD~03/11/2020 19:05~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "OWGM3B7DKQJX3CPXEPCY7VINQ4AB5KIDOFKIELJYEVAXVF6MVWW74A3GULMWRAYYQGRNKMMY67SSVWNI6W3NG6PJQCOCBULOMH654XN43LHVQQRGOKJ2PI6XS32O6OGW5C3BE2AO37OBZNTXPJSQONFAR7XJA2YOMR2B4FDPIWSCFMVO2B5VGUBX3FMNWMNW6RIGKQB3545FE",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 1670",
+									"time": [
+										"2020-03-11T15:25:00.000",
+										"2020-03-11T19:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-11T15:25:00.000Z",
+										"2020-03-11T18:05:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 1670",
+							"time": [
+								"2020-03-11T15:25:00.000",
+								"2020-03-11T19:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-11T15:25:00.000Z",
+								"2020-03-11T18:05:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-12T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 3,
+							"flightKey": "FR~8353~ ~~STN~03/12/2020 06:25~BUD~03/12/2020 09:55~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "MEX4QLH4RFDOS5UWS2UVIKZUFS4D2XJ6JF7S4HKOQS3P2VULZW5O6WGUX5MG3BEM2WZHGIYXKZGNOX2VZGF7GSNZFCNYP33IMKAP6EPKGS2BLCHI7NTFAXLLTON55XQ4MRIJPQ2Q2EKRSZLMSILQNDBNGPOJORTMBNRA5AKDHPZGTBWFCY2IBOYEF3KZYHPRV3OM56BAQ4KTC",
+								"fareClass": "H",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 16619.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 16619.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-12T06:25:00.000",
+										"2020-03-12T09:55:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T06:25:00.000Z",
+										"2020-03-12T08:55:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-12T06:25:00.000",
+								"2020-03-12T09:55:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T06:25:00.000Z",
+								"2020-03-12T08:55:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8445~ ~~STN~03/12/2020 12:00~BUD~03/12/2020 15:25~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "MEX4QLH4RFDOS5UWS2UVIKZUFS4D2XJ6JF7S4HKOQS3P2VULZW5O6WGUX5MG3BEM2WZHGIYXKZGNPSGYMCCTFF4NXAY5N7EUV6NMEKSN67PWYKDWJX7Z7QO22OGPJGANYFP3UJQP27AYUEQBNC5VE5EUYIIYUGV4YFJPLROU7V5DEFS2WBNWKWPIQLAJYJTQSCBHSELXWAGX6",
+								"fareClass": "H",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 16619.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 16619.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-12T12:00:00.000",
+										"2020-03-12T15:25:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T12:00:00.000Z",
+										"2020-03-12T14:25:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-12T12:00:00.000",
+								"2020-03-12T15:25:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T12:00:00.000Z",
+								"2020-03-12T14:25:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~1670~ ~~STN~03/12/2020 15:00~BUD~03/12/2020 18:40~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "XZPIKJEXHDCDZUNO7HFCXL5DDFSYRYBIP3MU7HSQ7ARP4M5Z4PUBDIE6ZU5C65UXROKW6JWYLUTVV6NMJ6U2OLTM5IA4GZ7QAXI7X476CDYDUTPBFY6OB2HD422TOCKLHFNVEZEPSVTAJE2ZU6QTIZLH53RDD5TAFNPVWMSL4BQOACP524HONLNIG4TDTB377TJFPZLWPPDJS",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11398.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 11398.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 1670",
+									"time": [
+										"2020-03-12T15:00:00.000",
+										"2020-03-12T18:40:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T15:00:00.000Z",
+										"2020-03-12T17:40:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 1670",
+							"time": [
+								"2020-03-12T15:00:00.000",
+								"2020-03-12T18:40:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T15:00:00.000Z",
+								"2020-03-12T17:40:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8371~ ~~STN~03/12/2020 17:35~BUD~03/12/2020 21:00~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "7XA4YOXH27QVD75JR7WF72PUA4EPSDRGRACZYKDO57OS7OGBU7VST3JZNBW2ZOYKR7M5HK3Y6N5Q3OZ5UBTJGC2DMJR653THHTEMSANV5R6WSZDL4OISDJGBDDCWYGDOB3FKHVBUZH4CXRH2VALED7O7PMKHE53IA7XLPJYVLFECNAA6EONHBNDXKF7TTCXSJULXLZVGTI7A6",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8371",
+									"time": [
+										"2020-03-12T17:35:00.000",
+										"2020-03-12T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-12T17:35:00.000Z",
+										"2020-03-12T20:00:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8371",
+							"time": [
+								"2020-03-12T17:35:00.000",
+								"2020-03-12T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-12T17:35:00.000Z",
+								"2020-03-12T20:00:00.000Z"
+							],
+							"duration": "02:25"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-13T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8353~ ~~STN~03/13/2020 08:45~BUD~03/13/2020 12:15~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "VCZGFX7MQO7QOBUQOZYNBQF4LX6MZ75AWLFWZICF6ZATH3Q5CBXFG64SVTOQL7AMOHGHNKAULHLXAWVWWNWF632RXQYIIL57YVAGMW6UPG2XTHQW5O4XATQZKOPU4FMA25Y7NXC5AXVDK5CN73UNIFT7VQJFR4ZCTIWJQDB2E7HYO5HYJLK4654Y5Y6OWFQOTZQZOAPGKYIME",
+								"fareClass": "E",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 35630.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 35630.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-13T08:45:00.000",
+										"2020-03-13T12:15:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T08:45:00.000Z",
+										"2020-03-13T11:15:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-13T08:45:00.000",
+								"2020-03-13T12:15:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T08:45:00.000Z",
+								"2020-03-13T11:15:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 2,
+							"flightKey": "FR~8445~ ~~STN~03/13/2020 12:00~BUD~03/13/2020 15:25~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "VCZGFX7MQO7QOBUQOZYNBQF4LX6MZ75AWLFWZICF6ZATH3Q5CBXDD4I4RHCOZHBTBE63TYLBKJOJAYYTWEOISOVRRP4MOHJDIQ6B2VWF6QWALHKPAJN7HWKZEYXGLLTJONWFB7SF6PWUAOFMNPRJ2P5YI7WAPBR3GZM6W4ITZZO2ZZMYZWPSCRBVA5WUBCVCVJLBA5WXRRTPK",
+								"fareClass": "E",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 35630.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 35630.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-13T12:00:00.000",
+										"2020-03-13T15:25:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T12:00:00.000Z",
+										"2020-03-13T14:25:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-13T12:00:00.000",
+								"2020-03-13T15:25:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T12:00:00.000Z",
+								"2020-03-13T14:25:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": 2,
+							"flightKey": "FR~8371~ ~~STN~03/13/2020 17:35~BUD~03/13/2020 21:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "775MNLXJIVDBV7A3OHWMPFLZUZFFG6XTTJY5CJANNDANQAH6JLMANRVPE4SCUUS4H63PMJIDGILE4JBWQ4LDIFRNWO6BMC5AKVY32AK3VIIFII77C4PE5VA6R7JP7OKXOZMDCB4PPRPVH3ZVOHA3LWYUGSJTQPFAL7O3RCSCTGIUQQT6BWCBECZI6G3BSSZQNUOUZH457KQAK",
+								"fareClass": "V",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 25189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 25189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8371",
+									"time": [
+										"2020-03-13T17:35:00.000",
+										"2020-03-13T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T17:35:00.000Z",
+										"2020-03-13T20:00:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8371",
+							"time": [
+								"2020-03-13T17:35:00.000",
+								"2020-03-13T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T17:35:00.000Z",
+								"2020-03-13T20:00:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~1670~ ~~STN~03/13/2020 20:00~BUD~03/13/2020 23:40~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "JNPYUNBTAD6HMYJRUG2OV6Z22SK2PWZHAMMJZA6FGJOBEC7OAWIBZF5BIUNBB65AM74TWCLCYDHPFSXGRULFXLKLM6H7JFKOWSHBOQJKYP4Q2LSW7FXF2UQD33AU4HGN73OKHH2VQP6CEWH66X4ILTBLVWCQOFPW36YRTHPQ63ETNZVSPZ3OW5TRYWMWOIJPGSDQMOIMAYJRI",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 1670",
+									"time": [
+										"2020-03-13T20:00:00.000",
+										"2020-03-13T23:40:00.000"
+									],
+									"timeUTC": [
+										"2020-03-13T20:00:00.000Z",
+										"2020-03-13T22:40:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 1670",
+							"time": [
+								"2020-03-13T20:00:00.000",
+								"2020-03-13T23:40:00.000"
+							],
+							"timeUTC": [
+								"2020-03-13T20:00:00.000Z",
+								"2020-03-13T22:40:00.000Z"
+							],
+							"duration": "02:40"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-14T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 2,
+							"flightKey": "FR~8353~ ~~STN~03/14/2020 06:25~BUD~03/14/2020 09:55~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "775MNLXJIVDBV7A3OHWMPFLZUZFFG6XTTJY5CJANNDANQAH6JLMPSJRNX5DWT3V7X55FOIIXNMG2QC4HFBF7W7PKQDCH3YMUD4CST7AYDEIB7ZOFKGW3Y7OLCDEKNA7JUSOTHNWMAPPYPCUQH76GUT7LHJZV442SFMP7GCMMLSDVJ6WOKHWHVO2OEQAA5QCMVCJSNJHLUI5FG",
+								"fareClass": "V",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 25189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 25189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-14T06:25:00.000",
+										"2020-03-14T09:55:00.000"
+									],
+									"timeUTC": [
+										"2020-03-14T06:25:00.000Z",
+										"2020-03-14T08:55:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-14T06:25:00.000",
+								"2020-03-14T09:55:00.000"
+							],
+							"timeUTC": [
+								"2020-03-14T06:25:00.000Z",
+								"2020-03-14T08:55:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 5,
+							"flightKey": "FR~8445~ ~~STN~03/14/2020 12:10~BUD~03/14/2020 15:35~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "LAAJV7QDOXUM6GLK6UDVV7DQNQMQCIQC5IBFHMI7TQMW75LWD76IF6KXRV3IBHM2SVVVXBYILN75SLJ4JRLIH4VQ262JSRWT4XQ7NVJ7ALNBWTGJVZG3MFOTYAA3FYHMWCNLZMMKDEKWIC6D2XQJ2S66Q32QOLHKCZH6ZDQZXHRMKY5KZCJADLYSV56K7K42I7HYD6ZDMDYN6",
+								"fareClass": "H",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 16619.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 16619.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-14T12:10:00.000",
+										"2020-03-14T15:35:00.000"
+									],
+									"timeUTC": [
+										"2020-03-14T12:10:00.000Z",
+										"2020-03-14T14:35:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-14T12:10:00.000",
+								"2020-03-14T15:35:00.000"
+							],
+							"timeUTC": [
+								"2020-03-14T12:10:00.000Z",
+								"2020-03-14T14:35:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8371~ ~~STN~03/14/2020 17:35~BUD~03/14/2020 21:00~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "PAZI5RTI7Q6XPJWZ7NWTM2L6SSMZBLEDEN5MEHHX7VOOD7QOFGGYEIPZCYUM43X7XLJP2AF3BKIYIDSGIMU4E67Z44MLWBW7GQ32ERDBF73KR26UZLC324LDTEFIJ5OFLUXFMJ5263PSVVXYKQ6CI2OEZZWSPN3VNI5QH2UPHFLLUOMQIJGSOPKVGTKWCTCZEDWRDBBHQ7OIU",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8371",
+									"time": [
+										"2020-03-14T17:35:00.000",
+										"2020-03-14T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-14T17:35:00.000Z",
+										"2020-03-14T20:00:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8371",
+							"time": [
+								"2020-03-14T17:35:00.000",
+								"2020-03-14T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-14T17:35:00.000Z",
+								"2020-03-14T20:00:00.000Z"
+							],
+							"duration": "02:25"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-15T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8353~ ~~STN~03/15/2020 08:30~BUD~03/15/2020 12:00~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "PAZI5RTI7Q6XPJWZ7NWTM2L6SSMZBLEDEN5MEHHX7VOOD7QOFGGYEIPZCYUM43X7XLJP2AF3BKIYJ4KYWVCCCVUGPEPNTT7PUR6IMC2EAB5K6LZU3NF4RE6WF2ISVVAIGWPQXZQKGG5UJ33AJU2KYB5APT7AYJUBDFTLIE36VKA2SH3XR6I6IPNX2YRPZ36ROIDMQTR43CYAI",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-15T08:30:00.000",
+										"2020-03-15T12:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T08:30:00.000Z",
+										"2020-03-15T11:00:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-15T08:30:00.000",
+								"2020-03-15T12:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T08:30:00.000Z",
+								"2020-03-15T11:00:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 4,
+							"flightKey": "FR~8445~ ~~STN~03/15/2020 11:40~BUD~03/15/2020 15:05~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "GQRUYNYONQO2QIAUK3L6CYJI46D226B2IPMV54REHBMGMWABET3JQU7HLZJCCWAUW544XWGYJYB7ISDFDWDLLZQJESGZYIRF47NQ45VIHJUYG3YF4U43B4GGXQT5KGBADJS4TZNRDZA374P4F7QL6YR5ROVQM42IQEAYOTWHAI2BCAUGS3WIOWKBSDQDNVO4LNJJVD2RWYBEQ",
+								"fareClass": "C",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 20019.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 20019.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-15T11:40:00.000",
+										"2020-03-15T15:05:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T11:40:00.000Z",
+										"2020-03-15T14:05:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-15T11:40:00.000",
+								"2020-03-15T15:05:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T11:40:00.000Z",
+								"2020-03-15T14:05:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~1670~ ~~STN~03/15/2020 13:15~BUD~03/15/2020 16:55~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "LAAJV7QDOXUM6GLK6UDVV7DQNRD5JDA7VTTTLFJ75KX2UWL3PRLRUPKFVU6QJKWMHC34TGTCZ3GWO5F2ETIIOT5I3YUTYDDSJLJ7VH5ALXTB4XJK5I52HBKSPGXNKSJIAONQFBMYCVM5PYJAU7WYWLEOIWZ2A4DYLJMESMUZPGH7EHDWDD7A",
+								"fareClass": "H",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11773.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 14607.0,
+										"discountInPercent": 25,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 1670",
+									"time": [
+										"2020-03-15T13:15:00.000",
+										"2020-03-15T16:55:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T13:15:00.000Z",
+										"2020-03-15T15:55:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 1670",
+							"time": [
+								"2020-03-15T13:15:00.000",
+								"2020-03-15T16:55:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T13:15:00.000Z",
+								"2020-03-15T15:55:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8371~ ~~STN~03/15/2020 17:35~BUD~03/15/2020 21:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "LAAJV7QDOXUM6GLK6UDVV7DQNRD5JDA7VTTTLFJ75KX2UWL3PRLWOD4JNJSH7DIELJAULAY3LWXKS6B6IOLE2QSILGLCK2Y5FA3PRWR4QJAUGYS3IIU36TFO3BBC6VNINRON5JT4HXMJAAB6DEVIJ5LC4G667KHQ25QD3HEKX5Q4CF26IZFQ",
+								"fareClass": "H",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11773.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 14607.0,
+										"discountInPercent": 25,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8371",
+									"time": [
+										"2020-03-15T17:35:00.000",
+										"2020-03-15T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-15T17:35:00.000Z",
+										"2020-03-15T20:00:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8371",
+							"time": [
+								"2020-03-15T17:35:00.000",
+								"2020-03-15T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-15T17:35:00.000Z",
+								"2020-03-15T20:00:00.000Z"
+							],
+							"duration": "02:25"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-16T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 5,
+							"flightKey": "FR~8353~ ~~STN~03/16/2020 08:45~BUD~03/16/2020 12:15~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "AVIJ6NMSF446ZHXABZJ6AGOU7S6PHF44VH7WL5L5YLZLOXF4YXMHX6D3FXGPB6IB5WMCXP2GTKAWRSECTHMZ4ECL435SO3ICDNRZJNPZ6LCOCZTMUA3VJN2WEGY3TOBJGBEJH5ZITKEB2EE4DYBJLSRVBWISHB57WV5QXYWGBGHTC3RCDRIFND3U4VF4Q2HQUJNSM2NP56UO2",
+								"fareClass": "W",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 11398.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 11398.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "Buzz",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-16T08:45:00.000",
+										"2020-03-16T12:15:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T08:45:00.000Z",
+										"2020-03-16T11:15:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-16T08:45:00.000",
+								"2020-03-16T12:15:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T08:45:00.000Z",
+								"2020-03-16T11:15:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 5,
+							"flightKey": "FR~8445~ ~~STN~03/16/2020 10:55~BUD~03/16/2020 14:20~~",
+							"infantsLeft": 16,
+							"regularFare": {
+								"fareKey": "JNPYUNBTAD6HMYJRUG2OV6Z22SK2PWZHAMMJZA6FGJOBEC7OAWIBZF5BIUNBB65AM74TWCLCYDHPEQ2OR6QKE5C7DEDEMSM4ZQVH36VKZY5JVKUWZC6J6ADPB6CVOGBYZFA2TH4KC7HFPDMHEJB5BKVVBYPEQCDNFLSEUQZEDOMHFIOY4GGNABKSAWVCONQ6IRZS6Z46472XG",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-16T10:55:00.000",
+										"2020-03-16T14:20:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T10:55:00.000Z",
+										"2020-03-16T13:20:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-16T10:55:00.000",
+								"2020-03-16T14:20:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T10:55:00.000Z",
+								"2020-03-16T13:20:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": 3,
+							"flightKey": "FR~1670~ ~~STN~03/16/2020 13:20~BUD~03/16/2020 17:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "JNPYUNBTAD6HMYJRUG2OV6Z22SK2PWZHAMMJZA6FGJOBEC7OAWIBZF5BIUNBB65AM74TWCLCYDHPFSXGRULFXLKLM6H7JFKOWSHBOQP4TR2E2KQKL4Z62QLDSUVT4Z7RMRS6PAPFJBPCW4LWZCUNMM3NGDZ7UCJSHPQ63TJFJM2UUX2HPPJAC3LCWJNP7IGH2YBSTW2LNME2E",
+								"fareClass": "A",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 14189.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 14189.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 1670",
+									"time": [
+										"2020-03-16T13:20:00.000",
+										"2020-03-16T17:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T13:20:00.000Z",
+										"2020-03-16T16:00:00.000Z"
+									],
+									"duration": "02:40"
+								}
+							],
+							"flightNumber": "FR 1670",
+							"time": [
+								"2020-03-16T13:20:00.000",
+								"2020-03-16T17:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T13:20:00.000Z",
+								"2020-03-16T16:00:00.000Z"
+							],
+							"duration": "02:40"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8371~ ~~STN~03/16/2020 17:35~BUD~03/16/2020 21:00~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "ED56WKCEFLEV47S4KVGCHLYWKZH3ZPOQI2NQUDJVN3RNZ7PKHXUJEVF73W2TEOYQBIEJ7A5WGXCWUZ736PG5NL72XAQZJSIRCSDDXKDMZX6FDXPCFO5HGHYUOLDJ3UFEZ42QPV4FXS2Q2AGMYKOBO532WMC4SOSZTAJ2MDPXOPTPTDZYBW5WXSZKCH4WSGRG6B6QMPVJORJD4",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8371",
+									"time": [
+										"2020-03-16T17:35:00.000",
+										"2020-03-16T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-16T17:35:00.000Z",
+										"2020-03-16T20:00:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8371",
+							"time": [
+								"2020-03-16T17:35:00.000",
+								"2020-03-16T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-16T17:35:00.000Z",
+								"2020-03-16T20:00:00.000Z"
+							],
+							"duration": "02:25"
+						}
+					]
+				},
+				{
+					"dateOut": "2020-03-17T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8353~ ~~STN~03/17/2020 06:25~BUD~03/17/2020 09:55~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "OWGM3B7DKQJX3CPXEPCY7VINQ4AB5KIDOFKIELJYEVAXVF6MVWW74A3GULMWRAYYQGRNKMMY67SSVLVA2SYY6EMZL455UR7IKI2L5Z4OE2TIT5PT4WFKAQEXQZKC4ECLD474BSHZW664VGG4N5P3JA7RJGTGMBJUHLYP3LUPWCFJKGTWPDUJSWLBBP7FMXKQOHFSKQUD34SV6",
+								"fareClass": "T",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 9588.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 9588.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8353",
+									"time": [
+										"2020-03-17T06:25:00.000",
+										"2020-03-17T09:55:00.000"
+									],
+									"timeUTC": [
+										"2020-03-17T06:25:00.000Z",
+										"2020-03-17T08:55:00.000Z"
+									],
+									"duration": "02:30"
+								}
+							],
+							"flightNumber": "FR 8353",
+							"time": [
+								"2020-03-17T06:25:00.000",
+								"2020-03-17T09:55:00.000"
+							],
+							"timeUTC": [
+								"2020-03-17T06:25:00.000Z",
+								"2020-03-17T08:55:00.000Z"
+							],
+							"duration": "02:30"
+						},
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~8445~ ~~STN~03/17/2020 12:00~BUD~03/17/2020 15:25~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWOYPLFK274LQMBC5M6SIPKQLFQQWAX2FQJXP53OYGI3L75CMPNRUGDPTHK4KZBAPXPQWLAVC3ERV76S7DYVJTJDHUFWVH7DFTLO37G3L4EGC7TFIWHRXL7RLXDCL3CISISZEQKVHYU5CHCY6XMW5HMGJCBS",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 4580.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8445",
+									"time": [
+										"2020-03-17T12:00:00.000",
+										"2020-03-17T15:25:00.000"
+									],
+									"timeUTC": [
+										"2020-03-17T12:00:00.000Z",
+										"2020-03-17T14:25:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8445",
+							"time": [
+								"2020-03-17T12:00:00.000",
+								"2020-03-17T15:25:00.000"
+							],
+							"timeUTC": [
+								"2020-03-17T12:00:00.000Z",
+								"2020-03-17T14:25:00.000Z"
+							],
+							"duration": "02:25"
+						},
+						{
+							"faresLeft": -1,
+							"flightKey": "FR~8371~ ~~STN~03/17/2020 17:35~BUD~03/17/2020 21:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "6WCNDHOV35HNYGIKKWGMXTPREBNLMHLHJXX3AMZSZMHBEB7CJAWDKJHWRM3MEPR4FMCWLB55HVD26TVLB3YTDKDS5MKBJAZ7TBK7ADC7WKMT6I774B2TQIVIARGLRK73PY7HSCFY7BDGVDNPBDFUAPXECXFRKBXQ5ONVCTJIGXOMPJBVQAFIHVDMCWH7MIQTOWQRSVM3A7RG4",
+								"fareClass": "N",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 4580.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 4580.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "STN",
+									"destination": "BUD",
+									"flightNumber": "FR 8371",
+									"time": [
+										"2020-03-17T17:35:00.000",
+										"2020-03-17T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-03-17T17:35:00.000Z",
+										"2020-03-17T20:00:00.000Z"
+									],
+									"duration": "02:25"
+								}
+							],
+							"flightNumber": "FR 8371",
+							"time": [
+								"2020-03-17T17:35:00.000",
+								"2020-03-17T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-03-17T17:35:00.000Z",
+								"2020-03-17T20:00:00.000Z"
+							],
+							"duration": "02:25"
+						}
+					]
+				}
+			]
+		}
+	],
+	"serverTimeUTC": "2020-02-24T21:29:51.534Z"
+}

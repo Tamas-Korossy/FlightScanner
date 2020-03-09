@@ -1,0 +1,189 @@
+{
+	"termsOfUse": "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+	"currency": "HUF",
+	"currPrecision": 0,
+	"routeGroup": "LEISURE",
+	"tripType": "BUSINESS",
+	"upgradeType": "FLEXI_PLUS",
+	"trips": [
+		{
+			"origin": "BUD",
+			"originName": "Budapest T2B",
+			"destination": "MLA",
+			"destinationName": "Málta",
+			"routeGroup": "LEISURE",
+			"tripType": "BUSINESS",
+			"upgradeType": "FLEXI_PLUS",
+			"dates": [
+				{
+					"dateOut": "2020-01-29T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-01-30T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-01-31T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-01T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-02T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-03T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-04T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 1,
+							"flightKey": "FR~2277~ ~~BUD~02/04/2020 18:40~MLA~02/04/2020 21:00~~",
+							"infantsLeft": 18,
+							"regularFare": {
+								"fareKey": "AEVUJDVWKUUHASSC3M6TGT4MUDUAMVHK6L5TUSQ3OJXCOQ25XWJX5OPXEDVO5H6RFSMAJ2MGKFS2KVGOBNWYQ4J3NPSUDNOT5XOPWNCNO62XWFH6SPBPUDAC4LHDLIBKWL7GAIXH2QOAG3MG3B7WLGZPN6MYNXSJHZYBPQZ4VXJKWHAV4QWW7SQNHCW5VMXSOHIFLDHJRI23C",
+								"fareClass": "V",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 26386.0,
+										"count": 1,
+										"hasDiscount": false,
+										"publishedFare": 26386.0,
+										"discountInPercent": 0,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "BUD",
+									"destination": "MLA",
+									"flightNumber": "FR 2277",
+									"time": [
+										"2020-02-04T18:40:00.000",
+										"2020-02-04T21:00:00.000"
+									],
+									"timeUTC": [
+										"2020-02-04T17:40:00.000Z",
+										"2020-02-04T20:00:00.000Z"
+									],
+									"duration": "02:20"
+								}
+							],
+							"flightNumber": "FR 2277",
+							"time": [
+								"2020-02-04T18:40:00.000",
+								"2020-02-04T21:00:00.000"
+							],
+							"timeUTC": [
+								"2020-02-04T17:40:00.000Z",
+								"2020-02-04T20:00:00.000Z"
+							],
+							"duration": "02:20"
+						}
+					]
+				}
+			]
+		},
+		{
+			"origin": "MLA",
+			"originName": "Budapest T2B",
+			"destination": "BUD",
+			"destinationName": "Málta",
+			"routeGroup": "LEISURE",
+			"tripType": "BUSINESS",
+			"upgradeType": "FLEXI_PLUS",
+			"dates": [
+				{
+					"dateOut": "2020-01-29T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-01-30T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-01-31T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-01T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-02T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-03T00:00:00.000",
+					"flights": []
+				},
+				{
+					"dateOut": "2020-02-04T00:00:00.000",
+					"flights": [
+						{
+							"faresLeft": 2,
+							"flightKey": "FR~2278~ ~~MLA~02/04/2020 21:25~BUD~02/04/2020 23:45~~",
+							"infantsLeft": 17,
+							"regularFare": {
+								"fareKey": "NGO3PO37TBEMKFEX7T4ZEV337OBG4VRU6TTV7HG2Y6BBH5JM5L6IZPKSZ6XKPGSHROK33EARIFGWCPCE5D4PUQRZJT5IYKYDA7B5OY3T2WHGBJ2X4OJRXDMBMLOD5CC6JSSRI4P3VFHQNMQS65T6G2TICAUKCB6375TYAJRWBK64CXEXEW4A",
+								"fareClass": "C",
+								"fares": [
+									{
+										"type": "ADT",
+										"amount": 15152.0,
+										"count": 1,
+										"hasDiscount": true,
+										"publishedFare": 20057.0,
+										"discountInPercent": 33,
+										"hasPromoDiscount": false,
+										"discountAmount": 0.0
+									}
+								]
+							},
+							"operatedBy": "",
+							"segments": [
+								{
+									"segmentNr": 0,
+									"origin": "MLA",
+									"destination": "BUD",
+									"flightNumber": "FR 2278",
+									"time": [
+										"2020-02-04T21:25:00.000",
+										"2020-02-04T23:45:00.000"
+									],
+									"timeUTC": [
+										"2020-02-04T20:25:00.000Z",
+										"2020-02-04T22:45:00.000Z"
+									],
+									"duration": "02:20"
+								}
+							],
+							"flightNumber": "FR 2278",
+							"time": [
+								"2020-02-04T21:25:00.000",
+								"2020-02-04T23:45:00.000"
+							],
+							"timeUTC": [
+								"2020-02-04T20:25:00.000Z",
+								"2020-02-04T22:45:00.000Z"
+							],
+							"duration": "02:20"
+						}
+					]
+				}
+			]
+		}
+	],
+	"serverTimeUTC": "2020-02-01T13:30:10.418Z"
+}
